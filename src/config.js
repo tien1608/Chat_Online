@@ -1,0 +1,1 @@
+export const API_URL = "http://localhost:5000/api/auth"; // Replace with your actual API base URL
